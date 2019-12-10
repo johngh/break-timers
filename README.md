@@ -17,4 +17,6 @@ This version has locking implemented to prevent this.
 
 For details on the Pomodoro technique, please refer http://en.wikipedia.org/wiki/Pomodoro_Technique
 
+### Requirements
 
+Written in vbscript, so will probably only work on Windows platform... (write a better one for Linux/Mac!)
