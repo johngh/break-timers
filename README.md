@@ -12,6 +12,12 @@ It has since been updated to add missing features.
 e.g. in the original it was possible to accidentally start multiple overlapping pomodoro timers.
 This version has locking implemented to prevent this.
 
+NB: You will need to update the location for the lock file to a valid path before you can use it.
+
+It is currently set to:
+
+lockFile = "c:\john\bin\pomodoro.lock"
+
 
 ### References
 
